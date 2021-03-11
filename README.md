@@ -1,4 +1,4 @@
-# Geocalização por IP.
+#Criptos em tempo real.
 O site mostra o preço em tempo real de 3 criptomoedas.
 
 ## 💻 Como usar
