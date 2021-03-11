@@ -1,0 +1,19 @@
+    nav {
+background-color: rgb(255, 195, 83);
+}
+
+    footer {
+    background-color: rgb(255, 195, 83);
+    }
+
+    body{
+        background-color: rgb(252, 218, 156);
+    }
+
+#btc,#eth,#ltc {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 80px;
+        margin-left: 80px;
+      }
